@@ -1,0 +1,15 @@
+// /** @file
+// Asf Acpi table
+//
+// Install Asf Acpi table
+//
+// Copyright (c) 1985 - 2022, AMI. All rights reserved.<BR>
+// SPDX-License-Identifier: BSD-2-Clause-Patent
+//
+// **/
+
+
+#string STR_MODULE_ABSTRACT             #language en-US "Asf Acpi table"
+
+#string STR_MODULE_DESCRIPTION          #language en-US "Install Asf Acpi table."
+
